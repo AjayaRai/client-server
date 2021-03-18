@@ -1,0 +1,13 @@
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.csprojAssemblyReference.cache
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.AssemblyInfoInputs.cache
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.AssemblyInfo.cs
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.csproj.CoreCompileInputs.cache
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\bin\Debug\netcoreapp3.1\CsharpClient.exe
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\bin\Debug\netcoreapp3.1\CsharpClient.deps.json
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\bin\Debug\netcoreapp3.1\CsharpClient.runtimeconfig.json
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\bin\Debug\netcoreapp3.1\CsharpClient.runtimeconfig.dev.json
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\bin\Debug\netcoreapp3.1\CsharpClient.dll
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\bin\Debug\netcoreapp3.1\CsharpClient.pdb
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.dll
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.pdb
+C:\Users\raiaj\OneDrive - University of Essex\CS Yr 3\Advanced Programming\Assignment\Code\CsharpClient\obj\Debug\netcoreapp3.1\CsharpClient.genruntimeconfig.cache
